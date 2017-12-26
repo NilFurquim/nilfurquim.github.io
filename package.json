@@ -1,0 +1,32 @@
+{
+  "name": "nilsonfurquim-homepage",
+  "version": "0.0.1",
+  "description": "Nilson's homepage. A little bit about me and so far, my objectives and some ideas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NilFurquim/nilfurquim.github.io.git"
+  },
+  "keywords": [
+    "Nilson",
+    "Nilfurquim",
+    "homepage"
+  ],
+  "author": "Nilson Furquim da Silva (nilfurquimds@gmail.com)",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/NilFurquim/nilfurquim.github.io/issues"
+  },
+  "homepage": "https://github.com/NilFurquim/nilfurquim.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.21.0",
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {}
+}
